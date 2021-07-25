@@ -5,6 +5,7 @@ Open Source enthusiast, interested in Algorithms.
 - 🌱 I’m a student, inspired to be a better developer
 - 🏗  Likes to read and is cruious about novel things
 - ⚡ Main projects: 
-  - [OS-EDU/KO--CSP](https://github.com/OS-EDU/KO--CSP) 
+  - [OS-EDU/KO--CSP](https://github.com/OS-EDU/KO--CSP)
+  - [OS-EDU/os-edu.github.io](https://github.com/OS-EDU/os-edu.github.io)   
 - 💬 WeChat: `D-z0929`
 - 📫 Ping me by [Email](mailto:m_gaoxd@foxmail.com) 
